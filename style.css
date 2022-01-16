@@ -1,0 +1,15 @@
+ .container {
+     width: 300px;
+     height: 500px;
+     background: #27F5EE;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+ 
+ .subContainer {
+     width: 150px;
+     border-radius: 50%;
+     height: 150px;
+     background: #F5C826;
+ }
